@@ -4,7 +4,7 @@ A simple project to pull images from reddit and display them within a carousel.
 
 ## Pulling Images
 
-* `https://www.reddit.com/r/pics.jsonhttps://www.reddit.com/r/pics.json`: to pull a list of images
+* `https://www.reddit.com/r/pics.json`: to pull a list of images
 
 ## Guidance
 
